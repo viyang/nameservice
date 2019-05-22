@@ -22,7 +22,7 @@ import (
 	"github.com/tendermint/tendermint/libs/log"
 
 	gaiaInit "github.com/cosmos/cosmos-sdk/cmd/gaia/init"
-	sdk "github.com/cosmos/cosmos-sdk/types"
+    sdk "github.com/cosmos/cosmos-sdk/types"
 	app "github.com/viyang/nameservice"
 	abci "github.com/tendermint/tendermint/abci/types"
 	cfg "github.com/tendermint/tendermint/config"
